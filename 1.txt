@@ -1,2 +1,9 @@
-hello word node
-i love you dddddddddd
+git add 提交到暂存区
+git commit -m"提交"  提交到历史区
+git commit -a -m "提交" 直接提交到历史区
+git checkout 分支名 切换分支
+git checkout -b 分支名 创建并切换到分支名
+git branch 查询分支
+git branch 分支名 新建分支
+git merge 合并分支
+touch 新建一个文件
